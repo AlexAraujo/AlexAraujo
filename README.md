@@ -12,7 +12,7 @@
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Alex_Araujo" src="https://cdn.discordapp.com/avatars/839669595823931432/d8f6f1c9bda11be756466472b8728737.png?size=128">
+  <img align="right" alt="Alex_Araujo" src="https://scontent.fcpq5-1.fna.fbcdn.net/v/t1.6435-9/105524709_105216831248936_1754069243643664812_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Ucd8YpmtmckAX8Bpout&_nc_ht=scontent.fcpq5-1.fna&oh=ae79786aaefadf0084839d501667330a&oe=6146BB09?size=128">
 </div>
  
   ##
