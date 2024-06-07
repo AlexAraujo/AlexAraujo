@@ -1,3 +1,7 @@
+<pre>
+    <code>
+
+         
      ___                       ___
     /  /       ___           /  /       ___
    /  /      /    \         /  /      /    \       OS       Windows, Debian
@@ -6,3 +10,7 @@
    \  \   /  /____\  \   /  /      /  /____\  \    Full Stack Development and Computer engineer
     \  \ /________\  \ /  /      /________\  \     
      \__________/\__//__________/\_________/
+
+         
+    </code>
+</pre>
